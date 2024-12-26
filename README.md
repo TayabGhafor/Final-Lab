@@ -1,3 +1,6 @@
+
+# Note
+Sir my files was not pushed to the GitHub due to some error. So, I pushed the code files in the GitHub repoq
 # Final-Lab
 This repo is the final lab exam of web development
 
